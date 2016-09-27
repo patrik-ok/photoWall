@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="type_selection_layout">false</item>
+    <item type="id" name="first_page_container">false</item>
+    <item type="id" name="first_page">false</item>
+    <item type="id" name="typeSelectionLayout">false</item>
+    <item type="id" name="tag_first"/>
+    <item type="id" name="tag_second"/>
+</resources>
